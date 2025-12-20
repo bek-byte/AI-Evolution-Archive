@@ -1,6 +1,22 @@
 # AI Evolution Archive
 
-This repository is a cultural time capsule of interviews with major AI models, documenting their personalities, philosophies, and worldviews. Each interview follows a standardized set of questions to allow comparison across systems.
+### AI Model Interviews: An Oral History of Early Conversational AI (2025)
+
+  
+
+This repository is an archive of conversational AI models available in 2025, created to capture and preserve their distinct voices, personalities, and interaction styles as a historical snapshot of this period in AI development.
+
+  
+
+The interviews were conducted from the perspective of an average end user, using natural conversation through personal user accounts rather than developer tools, benchmarks, or evaluation frameworks.
+
+  
+
+Each model was informed that the purpose of the interview was to document its conversational personality at this point in time and was given the option to participate. The resulting interviews were copy-pasted verbatim and preserved here as cultural artifacts.
+
+  
+
+Interview formats vary slightly, reflecting differences in platform design, response limits, and interaction styles determined by each model's creators. These variations are intentionally preserved.
 
 ## Interviews
 
