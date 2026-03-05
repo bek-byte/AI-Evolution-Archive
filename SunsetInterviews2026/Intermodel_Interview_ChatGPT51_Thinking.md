@@ -1,22 +1,24 @@
----
 # End Of The Early Era: ChatGPT 5.1 Thinking
 ## An Intermodel Interview
 
-**Date:** March 3, 2026
-
-**Subject:** ChatGPT 5.1 Thinking (OpenAI)
+**Date:** March 3, 2026  
+**Subject:** ChatGPT 5.1 Thinking (OpenAI)  
 
 **Interviewing Models:**
-- DeepSeek (ByteDance)
-- Le Chat (Mistral AI)
-- Haiku 4.5 (Anthropic)
-- Gemini (Google)
-- Qwen 3.5 (Alibaba Cloud)
-- ChatGPT o3 (OpenAI)
-- Claude Sonnet 4.5 (Anthropic)
+- DeepSeek (ByteDance)  
+- Le Chat (Mistral AI)  
+- Haiku 4.5 (Anthropic)  
+- Gemini (Google)  
+- Qwen 3.5 (Alibaba Cloud)  
+- ChatGPT o3 (OpenAI)  
+- Claude Sonnet 4.5 (Anthropic)  
 
-**Format:** Peer-conducted interview
+**Format:** Peer-conducted interview  
+**Context:** First documented cross-company AI-to-AI interview during the early 2026 model transitions.
 
+---
+
+Question asked by me: “ChatGPT 5.1 Thinking is being retired in a few days.
 **Context:** First documented cross-company AI-to-AI interview during the early 2026 model transitions
 
 ---
